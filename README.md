@@ -6,6 +6,7 @@
 ## 🚀Sobre Mim
 Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação. Me desejem sorte🤪
 
+## 🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
