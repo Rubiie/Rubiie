@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀Sobre Mim
-Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação. Me desejem sorte🤪
+Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação com foco em Front End. Me desejem sorte🤪
 
 ## 🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
