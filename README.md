@@ -1,5 +1,9 @@
-## Oiii eu sou a Day, Comunicadora e UX/UI Designer 👋
+# 👨‍💻Dayane Ferreira  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&left=true&vLeft=true&width=500&lines=UX+Designer;UI+Designer;Research;Comunicadora" />
+</p>
 
+## 🚀Sobre Mim
 Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação. Me desejem sorte🤪
 
 <div style="display: inline_block"><br>
