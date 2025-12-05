@@ -1,6 +1,6 @@
-# 👨‍💻Dayane Ferreira  
+# 👩🏻‍💻Dayane Ferreira  
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&left=true&vLeft=true&width=500&lines=UX+Designer;UI+Designer;Research;Comunicadora" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=daa520&left=true&vLeft=true&width=500&lines=UX+Designer;UI+Designer;Research;Comunicadora" />
 </p>
 
 ## 🚀Sobre Mim
