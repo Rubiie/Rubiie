@@ -1,10 +1,10 @@
 # 👩🏻‍💻Dayane Ferreira  
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=daa520&left=true&vLeft=true&width=500&lines=UX+Designer;UI+Designer;Research;Comunicadora" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=daa520&left=true&vLeft=true&width=500&lines=UX+Designer;UI+Designer;Research;Comunicadora;Front-end" />
 </p>
 
 ## 🚀Sobre Mim
-Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação com foco em Front End. Me desejem sorte🤪
+Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação com foco em Front-end. Me desejem sorte🤪
 
 ## 🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
