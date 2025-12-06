@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀Sobre Mim
-Atualmente em fase de construção do meu primeiro protótipo para app de saúde >.< e iniciando outros cursos de programação com foco em Front-end. Me desejem sorte🤪
+Olá meu nome é Dayane Ferreira, tenho 37 anos, mãe do Ravi de 3 anos, morando atualmente em São Paulo/SP. Com formação em Comunicação Institucional e uma paixão inata por desafios, estou em transição de carreira estratégica para as áreas de Tecnologia e UX/UI Design. Atualmente, estou aprofundando meus conhecimentos técnicos em Front-end, com foco em HTML, CSS, Javascript, Node.js, TypeScript, React, Next.js, Mongo e SQL, espero fazer conexões fortes, amizades e oportunidades por aqui ❤️
 
 ## 🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
